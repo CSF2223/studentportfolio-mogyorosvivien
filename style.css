@@ -10,12 +10,12 @@ white: #fff
 black: #000  
 */
 
-html {
-    /* If we add any padding or border onto an element it does not affect the width of the element */
-    box-sizing: border-box
+html { 
+    /* If we add any padding or border onto an element it does not affect he width of the element */
+    box-sizing: border-box;
 }
 
-body {
+body{
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
